@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="midnightBlue">#2C3E50</color>
+    <color name="wisteria">#8E44AD</color>
+    <color name="belizeHole">#2980b9</color>
+    <color name="nephritis">#27ae60</color>
+    <color name="greenSea">#16a085</color>
+    <color name="pumpkin">#d35400</color>
+    <color name="pomegranate">#c0392b</color>
+</resources>
